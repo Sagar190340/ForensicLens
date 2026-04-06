@@ -1,3 +1,4 @@
+![ForensicLens Banner](Image.png)
 # ForensicLens: Advanced Image Analysis Tool
 
 ForensicLens is a professional digital forensics tool designed for investigators and cybersecurity students to verify image integrity and detect manipulation.
